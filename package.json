@@ -1,0 +1,16 @@
+{
+  "name": "file-watcher",
+  "version": "1.0.0",
+  "description": "Watch filesystem changes and trigger actions",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "file",
+    "watcher"
+  ],
+  "author": "RyanMoshi",
+  "license": "MIT"
+}
